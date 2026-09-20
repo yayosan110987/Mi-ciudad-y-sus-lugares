@@ -1,0 +1,44 @@
+/* Regla para el cuerpo del documento: modifica familia y tamaño de fuente */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+/* Regla para el encabezado principal: modifica el color de fondo */
+header {
+  background-color: #3e5267;
+}
+
+/* Regla para la navegación: modifica el color de fondo */
+nav {
+  background-color: #425364;
+}
+
+/* Regla para el contenido principal: modifica color de fondo y tamaño de fuente */
+main {
+  background-color: #f8f9fa;
+  font-size: 1.1rem;
+}
+
+/* Regla para el pie de página: modifica el color de fondo */
+footer {
+  background-color: #1a252f;
+}
+
+/* Regla para los elementos de lista: modifica la forma de mostrarse y el ancho */
+li {
+  display: inline-block;
+  width: 150px;
+}
+
+/* Regla para el título principal: modifica alineación, familia de fuente y color */
+h1 {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  color: #ffffff;
+}
+
+/* Regla para los párrafos: modifica la altura de línea */
+p {
+  line-height: 1.6;
+}
